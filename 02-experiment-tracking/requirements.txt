@@ -1,9 +1,10 @@
+pip
 mlflow
 jupyter
 scikit-learn
 pandas
 seaborn
+matplotlib
 hyperopt
 xgboost
 fastparquet
-boto3
